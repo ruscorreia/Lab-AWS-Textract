@@ -76,7 +76,7 @@ O AWS Textract analisa imagens ou documentos e identifica blocos de texto, tabel
 ### Imagem de Entrada
 ![Exemplo de Imagem](img.png)
 
-### Imagem de Entrada
+### Codigo
 ![VS Code](vscode.png)
 
 ### Saída do Textract
